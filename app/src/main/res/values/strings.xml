@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocationPinnedApp</string>
+    <string name="add_entry">Add Entry:</string>
+    <string name="enter_a_new_address">Enter a new address</string>
+    <string name="delete_entry">Delete Entry:</string>
+    <string name="enter_the_address_to_delete">Enter the address to delete</string>
+    <string name="update_entry">Update Entry:</string>
+    <string name="geocoded_locations">Geocoded Locations:</string>
+</resources>
